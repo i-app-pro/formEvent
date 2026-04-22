@@ -21,12 +21,12 @@ export const Hero = () => {
           {/* Tombol akan otomatis Maroon karena kita sudah mengubah komponen Button-nya */}
           <Button 
             label="Daftar Sekarang" 
-            className="px-10 py-4 shadow-xl shadow-red-100" 
+            //className="px-10 py-4 shadow-xl shadow-red-100" 
           />
           <Button 
             label="Lihat Jadwal" 
             variant="outline" 
-            className="px-10 py-4" 
+            //className="px-10 py-4" 
           />
         </div>
       </div>
